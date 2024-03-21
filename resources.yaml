@@ -1,0 +1,6 @@
+---
+name: my-sbom
+type: sbom
+input:
+  type: file
+  path: ./sbom.txt
